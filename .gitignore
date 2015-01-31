@@ -1,2 +1,5 @@
-/Spoon-Knife
-SqueletteBasique.html
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
